@@ -1,0 +1,36 @@
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Youtube mp3 downloader.exe.config
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Youtube mp3 downloader.exe
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Youtube mp3 downloader.pdb
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\libvideo.dll
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\MediaToolkit.dll
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\NiL.JS.dll
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.AssemblyReference.cache
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube_mp3_downloader.Form1.resources
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube_mp3_downloader.Properties.Resources.resources
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.GenerateResource.cache
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.CoreCompileInputs.cache
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.CopyComplete
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.exe
+C:\Users\bagla\source\repos\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.pdb
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Youtube mp3 downloader.exe.config
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Youtube mp3 downloader.exe
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Youtube mp3 downloader.pdb
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\libvideo.dll
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\MediaToolkit.dll
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\NiL.JS.dll
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.AssemblyReference.cache
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube_mp3_downloader.Form1.resources
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube_mp3_downloader.Properties.Resources.resources
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.GenerateResource.cache
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.CoreCompileInputs.cache
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.csproj.CopyComplete
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.exe
+C:\Users\bagla\Desktop\Youtube mp3 downloader\Youtube mp3 downloader\obj\Debug\Youtube mp3 downloader.pdb
